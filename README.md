@@ -190,6 +190,10 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [taiko](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
 * [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
+### Tools
+
+* [wirepig](https://github.com/griffinmyers/wirepig) - Mock HTTP and TCP dependencies.
+
 ## QA Tools
 
 * [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
